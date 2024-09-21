@@ -1,0 +1,3 @@
+[submodule "ann-benchmarks"]
+	path = ann-benchmarks
+	url = https://github.com/jinsolp/ann-benchmarks.git
